@@ -8,7 +8,7 @@ text_generator = pipeline("text-generation", model="gpt2")
 
 emotion_scores = {"POSITIVE": 0, "NEGATIVE": 0, "NEUTRAL": 0}
 
-def update_emotion_scores(input_text):
+def update_emotion_scores(input_text) :
     
     global emotion_scores
     sentiment = sentiment_analyzer(input_text, truncation=True)
