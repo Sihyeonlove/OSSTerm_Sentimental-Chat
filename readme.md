@@ -8,7 +8,7 @@ Have you ever had a chat with someone you need to get to know, and didn't know w
 
 So it was created. This program, based on their chats, becomes themselves. In other words, it's a "conversation sandbag" that provides feedback.
 
-![testcase]("/testCaseImg")
+![testcase]("/testCaseImg.png")
 
 ___
 
